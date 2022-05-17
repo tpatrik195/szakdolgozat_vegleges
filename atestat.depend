@@ -1,0 +1,116 @@
+n	<prsht.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1645562908 source:c:\users\patrik\documents\atestat\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Map.h"
+	"Snake.h"
+	"tools.h"
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\conio.h
+	<_mingw.h>
+
+1642595259 c:\users\patrik\documents\atestat\include\snake.h
+	<vector>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1642442290 c:\users\patrik\documents\atestat\tools.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1642284436 source:c:\users\patrik\documents\atestat\src\snake.cpp
+	"Snake.h"
+
